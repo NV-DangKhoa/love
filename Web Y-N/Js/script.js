@@ -22,7 +22,7 @@ document.getElementById("green-btn").addEventListener("click", function () {
 
   const container = document.querySelector(".container");
   container.innerHTML = `
-    <img id="tuc" src="anh2.jpg" alt="Thành công" />
+    <img id="tuc" src="Web Y-N/images/anh2.jpg" alt="Thành công" />
     <h2 style="color:rgb(249, 1, 96); font-size: 3rem;">Ai mít du tu</h2>
   `;
 });
